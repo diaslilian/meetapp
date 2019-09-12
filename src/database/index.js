@@ -21,6 +21,7 @@ class Database {
     this.mongoConnection = mongoose.connect(mongoURI, {
       useNewUrlParser: true,
       useFindAndModify: true,
+      useUnifiedTopology: true,
     });
 
     this.init();
