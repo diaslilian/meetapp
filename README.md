@@ -22,4 +22,4 @@ Adição de novos eventos.
 Verificação de dados para cadastro de eventos.
 Inscrição de usuários em eventos que irão acontecer.
 
-~Esse back-end foi desenvolvido como desafio do Bootcamp da Rocketseat.~
+~Back-END desenvolvido como desafio do Bootcamp da Rocketseat.~
