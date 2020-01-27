@@ -1,4 +1,4 @@
-# MeetApp
+# Back-end MeetApp
 **O MeetApp é um aplicativo agregador de eventos para desenvolvedores. (Um acrônimo à Meetup + App).**
 
 *Back-end de uma aplicação que será desenvolvida tanto com a versão de front-end, tanto com a mobile.*
